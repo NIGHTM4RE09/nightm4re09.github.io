@@ -16,6 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "quagga": "^0.12.1"
+        "quagga": "^0.12.1",
+        "select2": "^4.1.0-rc.0"
     }
 }
